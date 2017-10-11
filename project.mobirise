@@ -97,7 +97,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Jim Van Der Aa",
-          "text": "My name is Jim Van Der Aa, i'm born in Switzerland, but i'm Dutch! I live in a small city in Switzerland, around 30 minuts away from Geneva. My dream is to have my own Media and IT company &nbsp;in the future! Now, i already build my own computers, and sell them. You can order your custom computer if you are interested, please contact me with the contact methods down below!",
+          "text": "My name is Jim Van Der Aa. I was born in Switzerland, but I'm originally Dutch! I live in a small city in Switzerland, approximately 30 minutes away from Geneva. My dream is to have my own Media and IT company  in the future! Now, I already build my own computers, and sell them. You can order your custom computer if you are interested - please contact me through one of the contact methods mentioned below!",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><br><br></a>",
           "_tags": [
             "Theme"
@@ -153,7 +153,7 @@
             }
           },
           "title1": "Building<br>",
-          "caption1": "I'm a very experienced computer builder, i buildt many of them, and never had a one that's not working.",
+          "caption1": "I'm a very experienced computer builder, as proven by the fact that I have built many of them and have never had one not work!",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -176,7 +176,7 @@
             }
           },
           "title2": "Programming",
-          "caption2": "&nbsp; &nbsp;I'm new to programming, altough i'm &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;experienced in programming HTML&nbsp;",
+          "caption2": "&nbsp; I'm new to programming, although I'm     experienced in coding using HTML",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -199,7 +199,7 @@
             }
           },
           "title3": "Repair",
-          "caption3": "Since i've built many computers, I perfectly know how they work, wich makes it easy for me to repair or troubleshoot them, if you encounter any issue with one of my computers, please contact me as soon as possible!",
+          "caption3": "Since I've built many computers, I have a perfect understanding of how they work, which makes it easy for me to repair or troubleshoot them. If you encounter any issues with one of my computers, please contact me as soon as possible and we'll resolve the problem swiftly.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN</a>",
           "media4": {
             "image": {
@@ -402,7 +402,7 @@
           },
           "title": "Contact Form",
           "text": "You can contact me via e-mail, and it's totally free :-)",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> ",
           "_tags": [
             "Theme"
           ],
