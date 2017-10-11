@@ -7,15 +7,20 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header1-1 P {
+  font-size: 32px;
+}
 #features1-7 .mbr-section__col .mbr-header__text {
   text-align: center;
 }
 #features1-7 P {
   text-align: center;
+  font-size: 21px;
 }
 #msg-box3-9 .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
+  font-size: 30px;
 }
 #msg-box3-9 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -23,10 +28,17 @@
 #msg-box3-9 .mbr-article P {
   text-align: center;
   color: #ffffff;
+  font-size: 23px;
 }
 #slider2-a P {
   text-align: right;
   font-size: 30px;
+}
+#header4-r H1 {
+  font-size: 60px;
+}
+#header4-r .btn {
+  font-size: 20px;
 }
 #menu-i .mbr-brand__name {
   font-size: 16px;

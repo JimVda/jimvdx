@@ -103,7 +103,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1"
+          "_anchor": "header1-1",
+          "_styles": {
+            "P": {
+              "font-size": "32px"
+            }
+          }
         },
         {
           "_params": {
@@ -271,7 +276,8 @@
               "text-align": "center"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "21px"
             }
           }
         },
@@ -279,14 +285,16 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
             ".mbr-article P": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "23px"
             }
           },
           "_params": {
@@ -336,7 +344,7 @@
                 "showTitle": true,
                 "title": "",
                 "contentAlign": "right",
-                "text": "Here are some examples of the builds I can make.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -401,14 +409,22 @@
             "overlayOpacity": 0.5
           },
           "title": "Contact Form",
-          "text": "You can contact me via e-mail, and it's totally free :-)",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact</a> ",
           "_tags": [
             "Theme"
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_anchor": "header4-r"
+          "_anchor": "header4-r",
+          "_styles": {
+            "H1": {
+              "font-size": "60px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
