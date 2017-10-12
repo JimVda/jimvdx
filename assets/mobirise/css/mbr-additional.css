@@ -67,3 +67,15 @@
 #menu-n .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#menu-v .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-v.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-v .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-y P {
+  font-size: 30px;
+}
